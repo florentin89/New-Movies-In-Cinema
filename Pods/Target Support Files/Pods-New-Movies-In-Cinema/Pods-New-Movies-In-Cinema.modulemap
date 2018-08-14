@@ -1,0 +1,6 @@
+framework module Pods_New_Movies_In_Cinema {
+  umbrella header "Pods-New-Movies-In-Cinema-umbrella.h"
+
+  export *
+  module * { export * }
+}
